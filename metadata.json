@@ -1,0 +1,7 @@
+{
+  "name": "AI Science Simulation Lab",
+  "description": "A modern, interactive virtual science laboratory for students featuring Volcano, Rocket Launch, and DNA simulations, quizzes, experiments, and an AI Lab Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
